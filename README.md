@@ -280,6 +280,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [Scala Parser Combinators](https://github.com/scala/scala-parser-combinators) – Scala Standard Parser Combinator Library.
 * [Parboiled2](https://github.com/sirthias/parboiled2) – A Fast Parser Generator for Scala 2.10.3+.
 * [atto](https://github.com/tpolecat/atto) - Pure functional incremental text parsing library for Scala, based on Attoparsec.
+* [fastparse](https://lihaoyi.github.io/fastparse/) - A simple, pure, fast combinator parser library. Compatible with both Scala-JVM and Scala.js.
 
 ## Sbt plugins
 
